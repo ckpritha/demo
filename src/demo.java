@@ -2,7 +2,7 @@
 public class demo {
 
 	public static void main(String[] args) {
-		// TODO A
+		// check the commit
 		
 		System.out.println("Welcome");
 
