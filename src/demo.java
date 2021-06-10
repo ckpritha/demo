@@ -8,6 +8,8 @@ public class demo {
 
 		
 		System.out.println("Hello Github");
+		
+		System.out.println("Trying to connect jenkins");
 	}
 
 }
